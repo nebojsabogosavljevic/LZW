@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  BinReader.cpp
+c:\users\pc\downloads\lzw\lzw\binreader.cpp(31): warning C4244: '+=': conversion from 'double' to 'char', possible loss of data
+c:\users\pc\downloads\lzw\lzw\binreader.cpp(49): warning C4244: '+=': conversion from 'double' to 'short', possible loss of data
+  BinWriter.cpp
+c:\users\pc\downloads\lzw\lzw\binwriter.cpp(26): warning C4804: '-': unsafe use of type 'bool' in operation
+  Dictionary.cpp
+  DictionaryDecompress.cpp
+  LZW.cpp
+  Generating Code...
+  LZW.vcxproj -> C:\Users\pc\Downloads\LZW\x64\Debug\LZW.exe
